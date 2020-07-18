@@ -1,7 +1,7 @@
 # COVID-19-Detector-using-MachineLearning-and-Flask
 + Usages `python main.py`
 ## Requirements:-
-`Flask==1.1.1`<\br>
+`Flask==1.1.1`<br\>
 `gunicorn==19.9.0`<\br>
 `itsdangerous==1.1.0`<\br>
 `Jinja2==2.10.1`<\br>
