@@ -1,5 +1,7 @@
 # COVID-19-Detector-using-MachineLearning-and-Flask
 + Usages `python main.py`
+## About
+  This project will detect corona virus Probability in terms of some features. The data is not real it is  a dummy data that i have generated for learning purpose. Add your own data and train over that while using this application.
 ## Requirements:-
 `Flask==1.1.1`
 
